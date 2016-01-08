@@ -1,0 +1,5 @@
+C:\Users\siddhesh.mane\Documents\Visual Studio 2012\Projects\FSI_ImageBank\FSI_ImageBank\bin\FSI_ImageBank.dll
+C:\Users\siddhesh.mane\Documents\Visual Studio 2012\Projects\FSI_ImageBank\FSI_ImageBank\bin\FSI_ImageBank.pdb
+C:\Users\siddhesh.mane\Documents\Visual Studio 2012\Projects\FSI_ImageBank\FSI_ImageBank\obj\Debug\FSI_ImageBank.csprojResolveAssemblyReference.cache
+C:\Users\siddhesh.mane\Documents\Visual Studio 2012\Projects\FSI_ImageBank\FSI_ImageBank\obj\Debug\FSI_ImageBank.dll
+C:\Users\siddhesh.mane\Documents\Visual Studio 2012\Projects\FSI_ImageBank\FSI_ImageBank\obj\Debug\FSI_ImageBank.pdb
